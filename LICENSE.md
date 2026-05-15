@@ -28,4 +28,4 @@ Contenedor que proporciona el entorno gráfico ligero accesible por RDP y Web.
 \-Licencia: Principalmente GNU GPL (al basarse en Ubuntu/XFCE), aunque las imágenes de Linuxserver se distribuyen bajo licencias libres.  
 \-Fuente Oficial: [https://github.com/linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop)
 
-Se han seleccionado estas piezas de software por permitir un ahorro de costes (TCO) al evitar licencias propietarias recurrentes, permitiendo reinvertir ese capital en la seguridad del sistema.   
+
